@@ -26,3 +26,4 @@ const Search: React.FC<Props> = ({ onSearch }) => {
     
   );
 };
+export default Search;
